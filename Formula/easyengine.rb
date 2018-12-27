@@ -1,8 +1,9 @@
 class Easyengine < Formula
   desc "Command-line control panel to manage WordPress sites"
   homepage "https://easyengine.io/"
-  url "https://github.com/EasyEngine/easyengine/releases/download/v4.0.8/easyengine.phar"
-  sha256 "020d0b48329c1864d06e6a19ae48b4c1416c92645bcd9b13990565ad52d6f163"
+  url "https://github.com/EasyEngine/homebrew-core/blob/master/Formula/easyengine.rb"
+  sha256 "671deb46021ab50d11ed5bbf0a55dbbb8f71eeea0d4c6d54c2c0342da68d09d5"
+  revision 1
 
   bottle :unneeded
 
